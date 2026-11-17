@@ -1,0 +1,26 @@
+event_id,human_category,label_rationale,predicted_category
+e22ce7989cc2b857,Market Risk,FOMC policy communication can change interest-rate expectations and asset prices.,Emerging Risk
+849aec7aca9a7a3f,Market Risk,Discount-rate deliberations directly concern the price and availability of central-bank funding.,Emerging Risk
+3847728e76ea2eef,Market Risk,FOMC minutes can shift rate expectations and market pricing.,Emerging Risk
+41b487fc24227863,Market Risk,Treasury clearing rules affect repo-market liquidity and transaction structure.,Market Risk
+5329c10606d49dd3,Market Risk,Cross-trading rules affect securities execution and market liquidity.,Market Risk
+205a7cadafc98569,Credit Risk,A banking-system risk review includes asset quality and borrower repayment exposures.,Emerging Risk
+d64b797823a7b48a,Credit Risk,Lending data provides evidence about credit availability and borrower exposure.,Emerging Risk
+9b499ffb22720450,Credit Risk,CRA evaluations concern bank lending performance and community credit provision.,Emerging Risk
+2959bb5b53b93ad5,Credit Risk,Stress-test capital requirements absorb potential loan and counterparty losses.,Credit Risk
+6693ffd0688a1c13,Credit Risk,Resolution planning addresses bank failure and counterparty exposure.,Emerging Risk
+ad9abbed1c4f0bbb,Operational Risk,Employee misconduct and an enforcement action indicate people and control failure.,Operational Risk
+6d38436b77e3c060,Operational Risk,False regulatory filings indicate fraud and control failure.,Market Risk
+7286ce1588de8549,Operational Risk,Insufficient anti-money-laundering detection is a compliance and control failure.,Operational Risk
+022df9dc6bda6f99,Operational Risk,Cherry picking is investment-process misconduct and a control failure.,Market Risk
+8cfae79d4292a4b9,Operational Risk,Repeated Regulation SCI failures indicate compliance and operational-control weakness.,Operational Risk
+038d6408c62d899d,Technology Risk,The vulnerability may expose sensitive information in enterprise software.,Emerging Risk
+b5c59c3c791e43ac,Technology Risk,The software vulnerability creates a technology and information-security exposure.,Operational Risk
+5e1c219242c7141c,Technology Risk,The vulnerability may disclose technical information to a remote attacker.,Operational Risk
+cc053f3194dc5240,Technology Risk,The vulnerability can cause resource exhaustion in software infrastructure.,Emerging Risk
+e41b062af2b576da,Technology Risk,The product-control flaw can cause incorrect security-policy evaluation.,Operational Risk
+f84de1544d4d4a1f,Emerging Risk,Climate disclosure creates a developing regulatory and transition-risk exposure.,Emerging Risk
+fd1bb4c664fd36bd,Emerging Risk,Super-intelligence use by banks creates a novel and difficult-to-quantify risk.,Emerging Risk
+17b969eeb3e8fc68,Emerging Risk,New digital-asset regulation creates evolving regulatory and financial-system exposure.,Technology Risk
+ad78e4119a52a917,Emerging Risk,Machine-understandable disclosure in the super-intelligence era is a developing regulatory issue.,Market Risk
+0abfffc498cffb4f,Emerging Risk,Tokenized equities create evolving market-structure and regulatory exposures.,Technology Risk

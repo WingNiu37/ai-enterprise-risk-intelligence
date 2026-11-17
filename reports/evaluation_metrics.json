@@ -1,0 +1,50 @@
+{
+  "labelled_events": 25,
+  "matched_events": 25,
+  "accuracy": 0.32,
+  "classification_report": {
+    "Market Risk": {
+      "precision": 0.4,
+      "recall": 0.4,
+      "f1-score": 0.4,
+      "support": 5.0
+    },
+    "Credit Risk": {
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1-score": 0.3333333333333333,
+      "support": 5.0
+    },
+    "Operational Risk": {
+      "precision": 0.5,
+      "recall": 0.6,
+      "f1-score": 0.5454545454545454,
+      "support": 5.0
+    },
+    "Technology Risk": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 5.0
+    },
+    "Emerging Risk": {
+      "precision": 0.18181818181818182,
+      "recall": 0.4,
+      "f1-score": 0.25,
+      "support": 5.0
+    },
+    "accuracy": 0.32,
+    "macro avg": {
+      "precision": 0.4163636363636363,
+      "recall": 0.32,
+      "f1-score": 0.3057575757575758,
+      "support": 25.0
+    },
+    "weighted avg": {
+      "precision": 0.4163636363636364,
+      "recall": 0.32,
+      "f1-score": 0.30575757575757573,
+      "support": 25.0
+    }
+  }
+}

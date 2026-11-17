@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.coverage
+data/raw/*.json
+!data/raw/sample_events.json
+data/processed/*.csv
+!data/processed/.gitkeep
+!data/processed/sample_dashboard_events.csv
+data/processed/pipeline_report.json
+database/*.db
+powerbi/*.pbix

@@ -1,0 +1,730 @@
+{
+  "metadata": {
+    "collected_at": "2026-11-17T14:31:55.113251+00:00",
+    "event_count": 80,
+    "source_errors": {},
+    "run_id": "bca1c0c70d4d"
+  },
+  "events": [
+    {
+      "event_date": "Fri, 13 Nov 2026 21:15:00 GMT",
+      "headline": "Agencies extend comment period for proposed third-party risk management guidance",
+      "source": "Federal Reserve",
+      "description": "Agencies extend comment period for proposed third-party risk management guidance",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Thu, 12 Nov 2026 18:30:00 GMT",
+      "headline": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Thu, 12 Nov 2026 17:45:00 GMT",
+      "headline": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Thu, 12 Nov 2026 16:00:00 GMT",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Mon, 9 Nov 2026 21:00:00 GMT",
+      "headline": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Thu, 5 Nov 2026 16:00:00 GMT",
+      "headline": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Thu, 29 Oct 2026 20:30:00 GMT",
+      "headline": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Wed, 28 Oct 2026 18:00:00 GMT",
+      "headline": "Federal Reserve issues FOMC statement",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Fri, 16 Oct 2026 15:00:00 GMT",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Tue, 13 Oct 2026 18:00:00 GMT",
+      "headline": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "source": "Federal Reserve",
+      "description": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Fri, 9 Oct 2026 14:00:00 GMT",
+      "headline": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Thu, 8 Oct 2026 20:30:00 GMT",
+      "headline": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Wed, 7 Oct 2026 18:00:00 GMT",
+      "headline": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "source": "Federal Reserve",
+      "description": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Mon, 5 Oct 2026 20:30:00 GMT",
+      "headline": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Fri, 2 Oct 2026 20:45:00 GMT",
+      "headline": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Fri, 2 Oct 2026 20:00:00 GMT",
+      "headline": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Fri, 2 Oct 2026 15:00:00 GMT",
+      "headline": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Wed, 30 Sep 2026 13:00:00 GMT",
+      "headline": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Tue, 29 Sep 2026 20:00:00 GMT",
+      "headline": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+      "source": "Federal Reserve",
+      "description": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Fri, 25 Sep 2026 20:30:00 GMT",
+      "headline": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "source": "Federal Reserve",
+      "description": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:39.483997+00:00"
+    },
+    {
+      "event_date": "Fri, 13 Nov 2026 11:57:00 -0500",
+      "headline": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today proposed rule amendments to make its executive and director compensation disclosure requirements more principles-based and materiality-driven, providing investors with clearer, more concise, and less complex…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Tue, 10 Nov 2026 11:15:35 -0500",
+      "headline": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today provided its enforcement results for the past fiscal year which ended September 30. Throughout the fiscal year, the SEC’s Division of Enforcement remained focused on its fundamental responsibility: protecting…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Wed, 04 Nov 2026 11:28:00 -0500",
+      "headline": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today adopted amendments to the rules that define which registered investment companies, investment advisers, and business development companies qualify as small entities for purposes of the Regulatory Flexibility…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Fri, 30 Oct 2026 15:30:00 -0400",
+      "headline": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission took another step forward today to assist broker-dealers and other market participants on the path to central clearing of U.S. Treasury securities by issuing exemptive relief related to inter-affiliate repo…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Thu, 29 Oct 2026 12:42:37 -0400",
+      "headline": "Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today charged two foreign-operated, Colorado-incorporated entities, BG Wealth Sharing Ltd and DSJ Exchange Pty Ltd, for orchestrating a fraud scheme that used false SEC filings to boost confidence in their…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Fri, 23 Oct 2026 10:10:00 -0400",
+      "headline": "SEC Announces Fiscal Year 2027 Examination Priorities",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Tue, 20 Oct 2026 09:25:16 -0400",
+      "headline": "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
+      "source": "SEC",
+      "description": "The U.S. Securities and Exchange Commission (SEC) and the French Autorité des Marchés Financiers (AMF) announced that they have entered into a Memorandum of Understanding (MOU) designed to facilitate consultation and information-sharing in the…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Tue, 20 Oct 2026 08:51:00 -0400",
+      "headline": "SEC, FSA Hold Autumn Financial Regulatory Dialogue",
+      "source": "SEC",
+      "description": "The U.S. Securities and Exchange Commission (SEC) and the Financial Services Agency of Japan (FSA) convened the Autumn SEC-FSA Financial Regulatory Dialogue in Tokyo on Oct. 19, 2026.The SEC–FSA Dialogue builds upon longstanding efforts between the two…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Mon, 19 Oct 2026 13:19:43 -0400",
+      "headline": "SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission announced today that it will host a roundtable on November 9, 2026, to discuss the use of machine-understandable data and Super Intelligence (SI) and related risks and costs.“In the age of SI, high-quality…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Wed, 14 Oct 2026 10:30:47 -0400",
+      "headline": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission’s Small Business Capital Formation Advisory Committee announced that it will hold a meeting on Tuesday, October 27, 2026, at 10 a.m. to continue discussing IPO modernization and explore potential policy…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Fri, 09 Oct 2026 10:59:00 -0400",
+      "headline": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today proposed amendments to the Investment Company Act “cross-trading rule,” which permits transactions in securities between a registered fund and its affiliates under certain conditions. The proposed amendments…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Tue, 06 Oct 2026 16:30:24 -0400",
+      "headline": "SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today moved for entry of a final judgment by consent against Stephen Kenneth Leech II, the former co-chief investment officer of registered investment adviser Western Asset Management Company LLC, whom the SEC…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Tue, 06 Oct 2026 10:37:55 -0400",
+      "headline": "SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission’s Compliance Outreach Program announced today that it will host a virtual national seminar for investment companies and investment advisers on November 19, 2026. The purpose of the event is to help chief compliance…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Mon, 05 Oct 2026 08:47:36 -0400",
+      "headline": "SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission, in coordination with other U.S. and global financial regulators, today issued a joint investor bulletin as part of World Investor Week (WIW). The bulletin encourages investors to be resilient in changing…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Thu, 01 Oct 2026 12:16:07 -0400",
+      "headline": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today proposed new rules and amendments to provide a tailored framework for the custody of crypto assets for registered investment advisers and regulated funds, i.e. registered investment companies and business…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Thu, 01 Oct 2026 11:03:35 -0400",
+      "headline": "SEC’s Division of Examinations Announces New Exam Handbook",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission’s Division of Examinations today published its new handbook, “The SEC Exam Handbook: A Practical Guide on Process and Engagement,” which replaces and expands upon the previous examination brochure by providing…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Wed, 30 Sep 2026 14:30:01 -0400",
+      "headline": "SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today charged private fund adviser Meyer Global Management LLC (MGM) and its CEO, Owen E.H. Meyer, with defrauding investors and MGM-managed funds in connection with investments in SpaceX and other pre-IPO…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Wed, 30 Sep 2026 12:42:15 -0400",
+      "headline": "SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today announced charges against Christopher Kenji Dinelli and Jacob David “Kobe” Frankel for allegedly orchestrating a fraud scheme that raised more than $8.7 million from 35 investors through their fund, Beyond…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Wed, 30 Sep 2026 11:45:00 -0400",
+      "headline": "SEC Proposes Amendments to Expand Responsible Retailization of Private Markets",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today voted to propose rule amendments that would facilitate capital formation in the public and private markets by expanding retail investor choice and promoting innovation in regulated fund structures while…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Tue, 29 Sep 2026 09:55:53 -0400",
+      "headline": "SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today charged multiple entities that are likely operated by individuals located overseas for defrauding hundreds of retail investors, including many in the U.S., through so-called investment confidence scams where…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Mon, 28 Sep 2026 13:46:30 -0400",
+      "headline": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today announced settled charges against New York-based investment adviser Zoe Financial Inc. for failing to fully and fairly disclose material facts concerning conflicts of interest to its clients and prospective…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Wed, 23 Sep 2026 14:27:00 -0400",
+      "headline": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) published updated statistics and data visualizations covering key segments of the U.S. capital markets, including a notable increase in the number of initial public…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Wed, 23 Sep 2026 12:00:00 -0400",
+      "headline": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment scheme that raised approximately $860,000 from at least 18 investors, many of whom are current or…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Tue, 22 Sep 2026 12:41:11 -0400",
+      "headline": "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
+      "source": "SEC",
+      "description": "The Securities and Exchange Commission today censured New York-based broker dealer OTC Link LLC and ordered it to pay a $575,000 civil penalty for longstanding violations of Regulation Systems Compliance and Integrity (SCI).According to the SEC’s settled…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "Thu, 17 Sep 2026 08:55:00 -0400",
+      "headline": "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+      "source": "SEC",
+      "description": "The SEC is taking a significant step forward, within its statutory authority, to bring America’s capital markets into the digital age by facilitating onchain trading of certain tokenized stocks.",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:43.475711+00:00"
+    },
+    {
+      "event_date": "13 Nov 2026 16:15:00 -0500",
+      "headline": "Agencies Extend Comment Period for Proposed Third-Party Risk Management Guidance",
+      "source": "OCC",
+      "description": "The Federal Deposit Insurance Corporation, the Federal Reserve Board, the National Credit Union Administration, and the Office of the Comptroller of the Currency today announced that they will extend, until December 16, the comment period for proposed guidance on managing risks associated with third-party relationships. Comments on the proposal were originally due November 16.",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-100.html",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:46.844293+00:00"
+    },
+    {
+      "event_date": "12 Nov 2026 15:00:00 -0500",
+      "headline": "OCC’s Semiannual Risk Perspective Highlights Key Risks in Federal Banking System",
+      "source": "OCC",
+      "description": "The Office of the Comptroller of the Currency (OCC) today reported the key issues facing the federal banking system in the Semiannual Risk Perspective for Fall 2026.",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-99.html",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:46.844293+00:00"
+    },
+    {
+      "event_date": "5 Nov 2026 11:00:00 -0500",
+      "headline": "Federal Bank Regulatory Agencies Release 2025 Small Business, Small Farm, and Community Development Lending Data",
+      "source": "OCC",
+      "description": "Federal Bank Regulatory Agencies Release 2025 Small Business, Small Farm, and Community Development Lending Data The federal bank regulatory agencies, as members of the Federal Financial Institutions Examination Council (FFIEC), today released data on small business, small farm, and community development lending during 2025. The Community Reinvestment Act regulations require the agencies to annually disclose these data.",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-98.html",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:46.844293+00:00"
+    },
+    {
+      "event_date": "4 Nov 2026 06:30:00 -0500",
+      "headline": "OCC Issues Supervisory Framework on Bank Use of Super Intelligence",
+      "source": "OCC",
+      "description": "The Office of the Comptroller of the Currency (OCC) today issued a framework for its bank examination workforce on banks' use of Super Intelligence (SI).",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:46.844293+00:00"
+    },
+    {
+      "event_date": "2 Nov 2026 11:00:00 -0500",
+      "headline": "OCC Releases CRA Performance Evaluations for 19 National Banks and Federal Savings Associations",
+      "source": "OCC",
+      "description": "The Office of the Comptroller of the Currency (OCC) today released a list of Community Reinvestment Act (CRA) performance evaluations that became public during the period of October 1, 2026, through October 31, 2026.",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-96.html",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:46.844293+00:00"
+    },
+    {
+      "event_date": "29 Oct 2026 16:00:00 -0400",
+      "headline": "OCC Raises Concerns with California's Climate Disclosure Laws",
+      "source": "OCC",
+      "description": "The Office of the Comptroller of the Currency (OCC) today submitted a letter to the California Air Resource Board (CARB) addressing the serious legal and policy concerns raised by two California climate disclosure laws.",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-95.html",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:46.844293+00:00"
+    },
+    {
+      "event_date": "27 Oct 2026 14:00:00 -0400",
+      "headline": "Comptroller Gould Discusses Efforts to Support Community Banks",
+      "source": "OCC",
+      "description": "Comptroller of the Currency Jonathan V. Gould today discussed the Office of the Comptroller of the Currency's (OCC) work to help community banks thrive and remain dynamic as the financial industry evolves in remarks before the Ohio Bankers League.",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-94.html",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:46.844293+00:00"
+    },
+    {
+      "event_date": "22 Oct 2026 11:00:00 -0400",
+      "headline": "OCC Announces Enforcement Actions for October 2026",
+      "source": "OCC",
+      "description": "The Office of the Comptroller of the Currency (OCC) today released enforcement actions for October 2026.",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-93.html",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:46.844293+00:00"
+    },
+    {
+      "event_date": "21 Oct 2026 07:00:00 -0400",
+      "headline": "OCC Advances U.S. Digital Asset Leadership with Final Rule to Implement GENIUS Act",
+      "source": "OCC",
+      "description": "The Office of the Comptroller of the Currency (OCC) today announced a final rule to implement the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act.",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:46.844293+00:00"
+    },
+    {
+      "event_date": "14 Oct 2026 12:00:00 -0400",
+      "headline": "Comptroller Gould Discusses Findings of Debanking Report",
+      "source": "OCC",
+      "description": "Comptroller of the Currency Jonathan V. Gould today discussed findings of the Office of the Comptroller of the Currency's newly-released report on large banks' debanking activities during a press conference held in Lexington, Kentucky, with U.S. Congressman Andy Barr.",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-91.html",
+      "source_type": "rss",
+      "collected_at": "2026-11-17T14:31:46.844293+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:03.947",
+      "headline": "CVE-2024-56344: IBM Cognos Analytics 12.0.4 through 12.0.4 FP2, and 12.1.0 through 12.1.3 FP1 could allow a remote attacker to obtain sensitive information, caused by the failu",
+      "source": "NIST National Vulnerability Database",
+      "description": "IBM Cognos Analytics 12.0.4 through 12.0.4 FP2, and 12.1.0 through 12.1.3 FP1 could allow a remote attacker to obtain sensitive information, caused by the failure to properly enable HTTP Strict Transport Security. An attacker could exploit this vulnerability to obtain sensitive information using man in the middle techniques.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-56344",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:04.197",
+      "headline": "CVE-2025-13882: IBM Sterling Partner Engagement Manager Essentials Edition 6.3.0.0 through 6.3.0.2, and 6.2.4.0 through 6.2.4.4 and IBM Sterling Partner Engagement Manager Stan",
+      "source": "NIST National Vulnerability Database",
+      "description": "IBM Sterling Partner Engagement Manager Essentials Edition 6.3.0.0 through 6.3.0.2, and 6.2.4.0 through 6.2.4.4 and IBM Sterling Partner Engagement Manager Standard Edition 6.2.4.0 through 6.2.4.4  could allow an unauthenticated user to cause a denial of service in the email service due to improper control of interaction frequency.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-13882",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:04.343",
+      "headline": "CVE-2025-1350: IBM Controller 11.0.0 through 11.0.1 FP7, and 11.1.0 through 11.1.3 FP1 could allow a remote attacker to obtain sensitive information when a detailed technical ",
+      "source": "NIST National Vulnerability Database",
+      "description": "IBM Controller 11.0.0 through 11.0.1 FP7, and 11.1.0 through 11.1.3 FP1 could allow a remote attacker to obtain sensitive information when a detailed technical error message is returned in the browser. This information could be used in further attacks against the system.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-1350",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:04.710",
+      "headline": "CVE-2026-10832: A flaw was found in the DERDecoder class within wildfly-elytron-asn1. A remote attacker can exploit this resource exhaustion vulnerability by sending a speciall",
+      "source": "NIST National Vulnerability Database",
+      "description": "A flaw was found in the DERDecoder class within wildfly-elytron-asn1. A remote attacker can exploit this resource exhaustion vulnerability by sending a specially crafted DER (Distinguished Encoding Rules) payload. The decoder attempts to allocate excessive memory based on an inflated length value without proper validation, leading to Java Virtual Machine (JVM) memory exhaustion. This results in a remote Denial of Service (DoS) for services that process untrusted DER/ASN.1 input, including SASL (Simple Authentication and Security Layer) authentication mechanisms and X.500 certificate principal parsing paths.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-10832",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:05.603",
+      "headline": "CVE-2026-16512: gptp_handle_msg() in subsys/net/l2/ethernet/gptp/gptp.c dereferenced the gPTP header returned by GPTP_HDR() and switched on hdr->message_type without first chec",
+      "source": "NIST National Vulnerability Database",
+      "description": "gptp_handle_msg() in subsys/net/l2/ethernet/gptp/gptp.c dereferenced the gPTP header returned by GPTP_HDR() and switched on hdr->message_type without first checking that the received frame carries at least sizeof(struct gptp_hdr) (34) bytes of payload. The header accessor gptp_get_hdr() deliberately never fails for a short buffer — it returns pkt->frags->data and leaves validation to its callers — so a truncated frame produced a header pointer covering memory beyond the received data. The per-message-type checks that follow do not compensate: GPTP_VALID_LEN() reduces to len > 60 once the Ethernet header has been pulled, which is false for every fixed-size gPTP message, so GPTP_CHECK_LEN() never rejects a truncated SYNC, FOLLOWUP, PDELAY_RESP or SIGNALING message.\n\nThe defect is reached by an unauthenticated peer on the same link sending an Ethernet frame with ethertype 0x88F7 to the PTP multicast address on an interface configured as a gPTP port, with CONFIG_NET_GPTP enabled. Because conformant Ethernet pads frames to 60 bytes, a payload shorter than 34 bytes generally requires a link that can deliver sub-minimum frames — for example the native_sim TAP driver (drivers/ethernet/eth_native_tap.c), which forwards whatever length the host device supplies, or a MAC configured to accept undersized frames.\n\nThe short packet is retained (net_pkt_ref() into rcvd_sync_ptr, rcvd_follow_up_ptr, rcvd_pdelay_resp_ptr or rcvd_announce_ptr) and later parsed by the media-dependent and media-independent state machines in subsys/net/l2/ethernet/gptp/gptp_md.c and subsys/net/l2/ethernet/gptp/gptp_mi.c, which read tens of further bytes and copy some of them (the announce priority vector, hdr->port_id) into state that is subsequently transmitted. Under the default fixed-size buffer allocator (CONFIG_NET_BUF_FIXED_DATA_SIZE, 128-byte fragments) the accesses stay inside the allocated fragment and disclose stale recycled buffer contents; under the experimental CONFIG_NET_BUF_VARIABLE_DATA_SIZE allocator, where fragments are heap-allocated at the exact frame length, they are genuine out-of-bounds reads. There is no write and no availability impact.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-16512",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:05.753",
+      "headline": "CVE-2026-16514: gptp_mi_qualify_announce() in subsys/net/l2/ethernet/gptp/gptp_mi.c walks the Path Trace TLV of a received IEEE 802.1AS Announce message, comparing each clock i",
+      "source": "NIST National Vulnerability Database",
+      "description": "gptp_mi_qualify_announce() in subsys/net/l2/ethernet/gptp/gptp_mi.c walks the Path Trace TLV of a received IEEE 802.1AS Announce message, comparing each clock identity against the local one. The loop bound was taken solely from the attacker-controlled wire field announce->steps_removed (accepted up to 254), never from announce->tlv.len, which is the field that states how many identities the TLV actually carries. Because path_sequence is the flexible member of the wire TLV (struct gptp_path_trace_tlv) and GPTP_ANNOUNCE() yields a raw pointer into the received packet buffer, the memcmp() inside the loop can address memory well past the end of the received frame.\n\nThe stack's only length validation, GPTP_ANNOUNCE_CHECK_LEN(), requires the received gPTP payload to be exactly 68 + tlv.len bytes — so it does not constrain the loop, it guarantees the data is absent. An unauthenticated attacker on the same Ethernet segment can send a single Announce frame declaring tlv.len = 0 with steps_removed = 254; the frame passes the length check and reception path (net_gptp_recv() → gptp_handle_msg() → gptp_mi_qualify_announce()), which performs no authentication, and the loop then reads 255 entries of 8 bytes each — about 2 KB — beyond the end of the network buffer.\n\nThe impact is an out-of-bounds read. The bytes read are only used as a memcmp() operand and are never returned to the attacker, so there is no meaningful information disclosure; the practical risk is that the overread crosses a network buffer pool boundary into unmapped or MPU-protected memory and faults the networking RX thread, causing a denial of service. Exposure is limited to builds that enable the opt-in, experimental CONFIG_NET_GPTP (TSN/AVB deployments) and to attackers with layer-2 adjacency, since gPTP frames are sent to a link-local multicast address and are not routed.\n\nThe fix computes the true entry count as tlv.len / GPTP_CLOCK_ID_LEN and rejects the announce when steps_removed + 1 exceeds it, so the loop can no longer run past the data the packet-length check proved present.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-16514",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:05.897",
+      "headline": "CVE-2026-16515: net_icmpv6_send_error() in subsys/net/ip/icmpv6.c implemented only one of the three RFC 4443 section 2.4 suppression rules (do not answer an ICMPv6 error with a",
+      "source": "NIST National Vulnerability Database",
+      "description": "net_icmpv6_send_error() in subsys/net/ip/icmpv6.c implemented only one of the three RFC 4443 section 2.4 suppression rules (do not answer an ICMPv6 error with an ICMPv6 error). It did not check whether the triggering packet's source address identifies a single node (rule e.6) or whether the packet was sent to a multicast destination (rule e.3, whose only exceptions are Packet Too Big and Parameter Problem Code 2). Of the five call sites, only the port-unreachable path in subsys/net/ip/connection.c carried an equivalent guard of its own; the extension-header, unknown-next-header and fragmentation paths in subsys/net/ip/ipv6.c and subsys/net/ip/ipv6_fragment.c had none.\n\nAn unauthenticated attacker with access to the same link can exploit this in two ways. Sending a single IPv6 packet to the link-local all-nodes group ff02::1 carrying an unrecognized next-header value, with the source address spoofed to a chosen victim, causes every Zephyr node on the link to emit an ICMPv6 Parameter Problem message to that victim — a reflector with an amplification factor equal to the number of nodes. Alternatively, sending a unicast packet whose source address is a multicast address causes the node to transmit its ICMPv6 error to that multicast address, turning one unicast packet into a link-flooded multicast frame. Packets addressed to ff02::1 are accepted unconditionally by ipv6_input(), and no check rejects a multicast source address, so no special configuration is required.\n\nThe impact is degraded availability of the shared link and of the reflection victim, together with the ability for the attacker to hide its own address behind the responding nodes. The effect is amplified on constrained mesh links such as 802.15.4/Thread, where link-local multicast is flooded hop by hop. There is no memory-safety consequence: the error packet itself is well formed, it is simply emitted in cases where the protocol forbids it.\n\nThe fix adds both suppression checks at the single choke point in net_icmpv6_send_error(), before any reply packet is allocated, preserving the RFC-mandated exceptions for NET_ICMPV6_PACKET_TOO_BIG and Parameter Problem Code 2. Note that the IPv4 counterpart net_icmpv4_send_error() in subsys/net/ip/icmpv4.c still checks only for a broadcast destination and retains an equivalent gap for multicast destinations and non-unique sources.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-16515",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:07.837",
+      "headline": "CVE-2026-25684: A file type attribution issue in Zscaler Internet Access File Type Control evaluation rules may allow improper evaluation of File Type Control policies in rare ",
+      "source": "NIST National Vulnerability Database",
+      "description": "A file type attribution issue in Zscaler Internet Access File Type Control evaluation rules may allow improper evaluation of File Type Control policies in rare circumstances.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25684",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:12.987",
+      "headline": "CVE-2026-77927: ClipBucket v5 before 5.5.3-#182 contains a blind SQL injection vulnerability that allows authenticated users to extract arbitrary data from the database by subm",
+      "source": "NIST National Vulnerability Database",
+      "description": "ClipBucket v5 before 5.5.3-#182 contains a blind SQL injection vulnerability that allows authenticated users to extract arbitrary data from the database by submitting the check_photo parameter as an array to bypass the clean_requests() sanitization function in ClipBucket.class.php. Attackers can pass unsanitized array elements through the bulk deletion handler in manage_photos.php to photo_exists() in photos.class.php, where non-numeric values are interpolated directly into a SQL query, enabling time-based blind SQL injection to retrieve credential hashes and other sensitive data.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-77927",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:13.143",
+      "headline": "CVE-2026-77928: ClipBucket v5 before 5.5.3-#182 contains a blind SQL injection vulnerability that allows authenticated users to extract arbitrary database contents by submittin",
+      "source": "NIST National Vulnerability Database",
+      "description": "ClipBucket v5 before 5.5.3-#182 contains a blind SQL injection vulnerability that allows authenticated users to extract arbitrary database contents by submitting the msg_id parameter as an array to bypass the clean_requests() sanitization function in ClipBucket.class.php. Attackers can pass unsanitized array elements through the deletion handler in private_message.php into cb_pm::delete_msg(), which interpolates the unescaped message ID directly into a SQL query string, enabling time-based blind SQL injection to retrieve all user credential hashes and email addresses.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-77928",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:13.287",
+      "headline": "CVE-2026-77929: ClipBucket v5 before 5.5.3-#182 contains a file upload vulnerability that allows authenticated users to achieve remote code execution by uploading a PHP file wi",
+      "source": "NIST National Vulnerability Database",
+      "description": "ClipBucket v5 before 5.5.3-#182 contains a file upload vulnerability that allows authenticated users to achieve remote code execution by uploading a PHP file with valid image magic bytes through the photo upload endpoint. The FileUpload::manageFile() function in fileupload.class.php fails to update the file extension after MIME validation, allowing an attacker-controlled .php extension to persist on disk and execute as PHP via PHP-FPM when the uploaded file is retrieved.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-77929",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:14.217",
+      "headline": "CVE-2026-85511: A flaw was found in EAP's Elytron. An EAP application whose security domain is backed by an Elytron token-realm with oauth2-introspection would allow parameter ",
+      "source": "NIST National Vulnerability Database",
+      "description": "A flaw was found in EAP's Elytron. An EAP application whose security domain is backed by an Elytron token-realm with oauth2-introspection would allow parameter substitution due to missing URL encoding.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85511",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:19.230",
+      "headline": "CVE-2026-93505: A vulnerability was found in SveltyCMS 0.0.6. This vulnerability affects unknown code of the file src/utils/media/media-service.server.ts of the component SVG M",
+      "source": "NIST National Vulnerability Database",
+      "description": "A vulnerability was found in SveltyCMS 0.0.6. This vulnerability affects unknown code of the file src/utils/media/media-service.server.ts of the component SVG Media Upload. Performing a manipulation results in cross site scripting. The attack can be initiated remotely. The patch is named 05b4f9efeb79e9d72a693232334d7529687f896f. Applying a patch is the recommended action to fix this issue.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93505",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:19.410",
+      "headline": "CVE-2026-93506: A vulnerability was determined in SveltyCMS 0.0.6. This issue affects some unknown processing of the file /mediagallery/upload-media of the component File Uploa",
+      "source": "NIST National Vulnerability Database",
+      "description": "A vulnerability was determined in SveltyCMS 0.0.6. This issue affects some unknown processing of the file /mediagallery/upload-media of the component File Upload Endpoint. Executing a manipulation can lead to server-side request forgery. The attack can be launched remotely. This patch is called 05b4f9efeb79e9d72a693232334d7529687f896f. It is best practice to apply a patch to resolve this issue.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93506",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:19.590",
+      "headline": "CVE-2026-93558: A flaw was found in Netty's WebSocketServerExtensionHandler. A remote, unauthenticated attacker can exploit this vulnerability by using HTTP/1.1 pipelining to s",
+      "source": "NIST National Vulnerability Database",
+      "description": "A flaw was found in Netty's WebSocketServerExtensionHandler. A remote, unauthenticated attacker can exploit this vulnerability by using HTTP/1.1 pipelining to send requests faster than the application can respond. This leads to an unbounded growth of a per-connection queue, consuming excessive memory. Eventually, this can cause the Java Virtual Machine (JVM) to exhaust its heap, resulting in a Denial of Service (DoS) for the affected server.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93558",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:19.943",
+      "headline": "CVE-2026-93564: A flaw was found in Netty. A reference-count leak in the HAProxy PROXY-v2 message decoder allows a remote, unauthenticated attacker to send specially crafted PR",
+      "source": "NIST National Vulnerability Database",
+      "description": "A flaw was found in Netty. A reference-count leak in the HAProxy PROXY-v2 message decoder allows a remote, unauthenticated attacker to send specially crafted PROXY-protocol v2 headers. This can lead to memory exhaustion, resulting in a Denial of Service (DoS) for the affected system.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93564",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:20.093",
+      "headline": "CVE-2026-93565: A flaw was found in Netty RtspDecoder. The `RtspMethods.valueOf()` function incorrectly strips trailing control bytes from method tokens in Real-Time Streaming ",
+      "source": "NIST National Vulnerability Database",
+      "description": "A flaw was found in Netty RtspDecoder. The `RtspMethods.valueOf()` function incorrectly strips trailing control bytes from method tokens in Real-Time Streaming Protocol (RTSP) requests. A remote attacker can exploit this by sending a specially crafted RTSP request, leading to method-token smuggling. This vulnerability allows an attacker to bypass method-based access controls and can also be used to launder malicious requests through Netty-based RTSP proxies, making them appear legitimate to backend systems.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93565",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:20.290",
+      "headline": "CVE-2026-93566: A flaw was found in Netty. A remote attacker could exploit this by sending a specially crafted HTTP request that includes control characters within the chunk-si",
+      "source": "NIST National Vulnerability Database",
+      "description": "A flaw was found in Netty. A remote attacker could exploit this by sending a specially crafted HTTP request that includes control characters within the chunk-size line. This bypasses the intended strict validation, allowing the attacker to inject arbitrary HTTP requests. This vulnerability can lead to HTTP request smuggling, potentially resulting in information disclosure or other unauthorized actions.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93566",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:20.450",
+      "headline": "CVE-2026-93567: A flaw was found in Netty's HTTP/2 codec. When converting HTTP/1 CONNECT requests to HTTP/2, the component incorrectly uses the Host header instead of the CONNE",
+      "source": "NIST National Vulnerability Database",
+      "description": "A flaw was found in Netty's HTTP/2 codec. When converting HTTP/1 CONNECT requests to HTTP/2, the component incorrectly uses the Host header instead of the CONNECT authority-form request-target for the tunnel authority. A remote attacker can exploit this by supplying a different Host header, leading to a malformed HTTP/2 CONNECT request. This can bypass security controls such as tunnel allow-lists or egress policies, resulting in integrity loss.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93567",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:20.600",
+      "headline": "CVE-2026-93568: A flaw was found in Netty. A remote attacker could exploit this vulnerability by sending specially crafted HTTP/2 or HTTP/3 Extended CONNECT requests. Netty's H",
+      "source": "NIST National Vulnerability Database",
+      "description": "A flaw was found in Netty. A remote attacker could exploit this vulnerability by sending specially crafted HTTP/2 or HTTP/3 Extended CONNECT requests. Netty's HTTP-object conversion path incorrectly processes these requests as regular HTTP/1.1 CONNECT requests, leading to a loss of critical protocol and path information. This misinterpretation can allow attackers to bypass security policies, such as routing or authorization logic, in applications that rely on Netty for HTTP/2 or HTTP/3 communication, resulting in integrity loss.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93568",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:20.743",
+      "headline": "CVE-2026-93569: A flaw was found in Netty. A remote unauthenticated attacker can exploit a vulnerability in Netty's HTTP/1 to HTTP/2 conversion process. When an HTTP/1 request ",
+      "source": "NIST National Vulnerability Database",
+      "description": "A flaw was found in Netty. A remote unauthenticated attacker can exploit a vulnerability in Netty's HTTP/1 to HTTP/2 conversion process. When an HTTP/1 request includes both an absolute-form request-target and a conflicting Host header, Netty incorrectly prioritizes the Host header for the HTTP/2 :authority field, discarding the original request-target authority. This inconsistency can allow an attacker to bypass security controls in Netty-based proxies or gateways, potentially leading to unauthorized access, cache poisoning, or misrouting of requests.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93569",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:21.020",
+      "headline": "CVE-2026-93573: A flaw was found in Netty's HTTP/1.1 decoder. This vulnerability allows a remote attacker to bypass `Transfer-Encoding` header validation by splitting the `Tran",
+      "source": "NIST National Vulnerability Database",
+      "description": "A flaw was found in Netty's HTTP/1.1 decoder. This vulnerability allows a remote attacker to bypass `Transfer-Encoding` header validation by splitting the `Transfer-Encoding` field across multiple headers, with the last field containing a non-final transfer coding like `gzip` or `deflate`. This bypass can lead to HTTP request smuggling, enabling attackers to bypass security controls, desynchronize request processing, or cause requests to be processed in an unintended context.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93573",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:21.167",
+      "headline": "CVE-2026-93576: A flaw was found in Netty netty-codec-smtp. The component does not properly validate Carriage Return (CR) and Line Feed (LF) characters in the SMTP command-name",
+      "source": "NIST National Vulnerability Database",
+      "description": "A flaw was found in Netty netty-codec-smtp. The component does not properly validate Carriage Return (CR) and Line Feed (LF) characters in the SMTP command-name field. A remote attacker, if an application routes untrusted input into this field, can embed CR/LF characters to inject arbitrary SMTP commands. This can lead to SMTP command smuggling, allowing for unauthorized email relay or spoofing of sender/recipient addresses. While the impact is significant, the real-world exploitability is considered lower as applications typically do not place user-controlled data in the command-name field.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93576",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:21.917",
+      "headline": "CVE-2026-93652: Integer overflow in µD3TN v0.15.0 TCPCLv3 handshake causes heap overflow, allowing remote attackers to reliably cause DoS",
+      "source": "NIST National Vulnerability Database",
+      "description": "Integer overflow in µD3TN v0.15.0 TCPCLv3 handshake causes heap overflow, allowing remote attackers to reliably cause DoS",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93652",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    },
+    {
+      "event_date": "2026-09-18T15:17:22.043",
+      "headline": "CVE-2026-93653: A denial of service flaw was found in Poppler's Splash backend. A crafted PDF with tiling-pattern geometry approaching the int32 boundary can cause SplashOutput",
+      "source": "NIST National Vulnerability Database",
+      "description": "A denial of service flaw was found in Poppler's Splash backend. A crafted PDF with tiling-pattern geometry approaching the int32 boundary can cause SplashOutputDev::tilingPatternFill to compute an attacker-controlled repeat count that drives an excessively long loop in the pattern-fill scanline routine, without a corresponding memory allocation. An attacker could exploit this by supplying a malicious PDF to an application that renders it via Poppler's Splash backend, causing the rendering process to consume 100% CPU for an attacker-controlled, extended duration.",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93653",
+      "source_type": "nvd_api",
+      "collected_at": "2026-11-17T14:31:55.112976+00:00"
+    }
+  ]
+}
