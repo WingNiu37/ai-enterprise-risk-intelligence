@@ -3,7 +3,10 @@ from __future__ import annotations
 import json
 import os
 import re
+import time
 from datetime import datetime, timezone
+from pathlib import Path
+from typing import Callable
 
 import pandas as pd
 
@@ -173,14 +176,75 @@ def llm_analysis(row: pd.Series, model: str | None = None) -> dict:
     return result
 
 
-def analyze_events(events: pd.DataFrame, method: str = "auto", limit: int | None = None) -> list[dict]:
-    """Analyze events with the LLM when configured, otherwise use the benchmark."""
+def _load_cache(cache_path: Path | None) -> dict[str, dict]:
+    """Read completed analyses from JSON Lines so interrupted runs can resume."""
+    if cache_path is None or not cache_path.exists():
+        return {}
+
+    cached: dict[str, dict] = {}
+    for line_number, line in enumerate(cache_path.read_text(encoding="utf-8").splitlines(), 1):
+        if not line.strip():
+            continue
+        try:
+            result = json.loads(line)
+            cached[result["event_id"]] = result
+        except (json.JSONDecodeError, KeyError) as error:
+            raise ValueError(f"Invalid analysis cache at line {line_number}") from error
+    return cached
+
+
+def _append_cache(cache_path: Path | None, result: dict) -> None:
+    """Persist one completed event immediately instead of waiting for the full batch."""
+    if cache_path is None:
+        return
+    cache_path.parent.mkdir(parents=True, exist_ok=True)
+    with cache_path.open("a", encoding="utf-8") as cache_file:
+        cache_file.write(json.dumps(result, ensure_ascii=False) + "\n")
+
+
+def _analyze_with_retry(
+    row: pd.Series,
+    analyzer: Callable[[pd.Series], dict],
+    max_attempts: int,
+) -> dict:
+    """Retry temporary API failures with short exponential backoff."""
+    for attempt in range(1, max_attempts + 1):
+        try:
+            return analyzer(row)
+        except Exception:
+            if attempt == max_attempts:
+                raise
+            time.sleep(2 ** (attempt - 1))
+    raise RuntimeError("Analysis retry loop ended unexpectedly")
+
+
+def analyze_events(
+    events: pd.DataFrame,
+    method: str = "auto",
+    limit: int | None = None,
+    cache_path: Path | None = None,
+    max_attempts: int = 3,
+) -> list[dict]:
+    """Analyze events, reusing cached LLM results when a prior run was interrupted."""
     if method not in {"auto", "llm", "baseline"}:
         raise ValueError("method must be auto, llm, or baseline")
     use_llm = method == "llm" or (method == "auto" and bool(os.getenv("OPENAI_API_KEY")))
     if method == "llm" and not os.getenv("OPENAI_API_KEY"):
         raise RuntimeError("OPENAI_API_KEY is required for method='llm'")
+    if max_attempts < 1:
+        raise ValueError("max_attempts must be at least 1")
 
     subset = events.head(limit) if limit else events
     analyzer = llm_analysis if use_llm else baseline_analysis
-    return [analyzer(row) for _, row in subset.iterrows()]
+    cached = _load_cache(cache_path) if use_llm else {}
+    analyses: list[dict] = []
+    for _, row in subset.iterrows():
+        event_id = row["event_id"]
+        if event_id in cached:
+            analyses.append(cached[event_id])
+            continue
+        result = _analyze_with_retry(row, analyzer, max_attempts if use_llm else 1)
+        analyses.append(result)
+        if use_llm:
+            _append_cache(cache_path, result)
+    return analyses

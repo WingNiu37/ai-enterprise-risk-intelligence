@@ -34,7 +34,13 @@ def run(
     initialize_database(database_path)
     load_events(database_path, events)
 
-    analyses = analyze_events(events, method=method, limit=limit)
+    cache_path = PROCESSED_DIR / "llm_analysis_cache.jsonl"
+    analyses = analyze_events(
+        events,
+        method=method,
+        limit=limit,
+        cache_path=cache_path,
+    )
     replace_analysis(database_path, analyses)
     dashboard_path = PROCESSED_DIR / "dashboard_events.csv"
     dashboard = export_dashboard_view(database_path, dashboard_path)
@@ -48,6 +54,7 @@ def run(
         "analyzed_events": len(analyses),
         "dashboard_rows": len(dashboard),
         "analysis_method": analyses[0]["analysis_method"] if analyses else None,
+        "llm_cache_path": str(cache_path) if method in {"auto", "llm"} else None,
     }
     (PROCESSED_DIR / "pipeline_report.json").write_text(
         json.dumps(report, indent=2), encoding="utf-8"
