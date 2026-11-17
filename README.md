@@ -115,12 +115,24 @@ emerging or operational risk.
 
 ## Run the LLM pipeline
 
-Copy `.env.example` to `.env`, enter a user-owned API key, and run:
+Copy `.env.example` to `.env` and enter a user-owned API key. First test three
+events, then evaluate only the 25 human-labelled events:
+
+```bash
+python -m risk_intel.pipeline --raw-path data/raw/sample_events.json --method llm --limit 3
+python scripts/run_labelled_evaluation.py
+```
+
+After reviewing the real evaluation result, create the full dashboard dataset:
 
 ```bash
 python -m risk_intel.pipeline --raw-path data/raw/sample_events.json --method llm
-python scripts/evaluate_model.py
 ```
+
+Completed LLM results are written incrementally to
+`data/processed/llm_analysis_cache.jsonl`. If a request fails, rerun the same
+command: completed event IDs are reused instead of generating and paying for
+them again. The full run also reuses the 25 evaluation results.
 
 The prompt defines the risk taxonomy, permitted sectors, rating scales, and a
 strict JSON schema. The model returns category, sectors, score components,
